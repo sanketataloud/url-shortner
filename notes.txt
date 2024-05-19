@@ -1,0 +1,16 @@
+1. App.js
+2. Index.js
+
+1.Create server
+2.connect database
+3.
+
+Requirement
+1. production grade project structure
+2. testing
+3. request validations
+4. error handler
+5. bad json
+7. error logging - error.log 
+9. not found handler
+
